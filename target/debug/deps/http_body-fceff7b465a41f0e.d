@@ -1,0 +1,7 @@
+D:\rust\CLI\forex_fn\target\debug\deps\http_body-fceff7b465a41f0e.d: C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-body-1.0.1\src\lib.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-body-1.0.1\src\frame.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-body-1.0.1\src\size_hint.rs
+
+D:\rust\CLI\forex_fn\target\debug\deps\libhttp_body-fceff7b465a41f0e.rmeta: C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-body-1.0.1\src\lib.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-body-1.0.1\src\frame.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-body-1.0.1\src\size_hint.rs
+
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-body-1.0.1\src\lib.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-body-1.0.1\src\frame.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\http-body-1.0.1\src\size_hint.rs:
